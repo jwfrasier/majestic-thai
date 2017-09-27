@@ -24,7 +24,7 @@ ReactDOM.render(
     <div>
     <BaseLayout/>
           <Route path="/" exact component={About}/>
-          <Route path="/Findus" component={Findus}/>
+          <Route path="/Contact" component={Findus}/>
           <Route path="/Menu" component={Menu}/>
         </div>
       </BrowserRouter>
